@@ -9,6 +9,11 @@
           37.75366970639172,
           55.78167458398897
         ]
+      },
+      "properties": {
+        "id": "0",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -19,6 +24,11 @@
           37.543169419176536,
           55.64008782139012
         ]
+      },
+      "properties": {
+        "id": "1",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -29,6 +39,11 @@
           37.43998056100799,
           55.6995282482109
         ]
+      },
+      "properties": {
+        "id": "2",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -39,6 +54,11 @@
           30.340323160897494,
           59.943103734578074
         ]
+      },
+      "properties": {
+        "id": "3",
+        "scope": "global",
+        "facility": "production plant"
       }
     },
     {
@@ -49,6 +69,11 @@
           43.50036634919863,
           56.673882086179155
         ]
+      },
+      "properties": {
+        "id": "4",
+        "scope": "global",
+        "facility": "power plant"
       }
     },
     {
@@ -59,6 +84,11 @@
           30.519244797258725,
           56.32614040691102
         ]
+      },
+      "properties": {
+        "id": "5",
+        "scope": "global",
+        "facility": "production plant"
       }
     },
     {
@@ -69,6 +99,11 @@
           94.41336633381938,
           69.61458023259655
         ]
+      },
+      "properties": {
+        "id": "6",
+        "scope": "global",
+        "facility": "power plant"
       }
     },
     {
@@ -79,6 +114,11 @@
           41.653114,
           46.434301
         ]
+      },
+      "properties": {
+        "id": "7",
+        "scope": "global",
+        "facility": "power plant"
       }
     },
     {
@@ -89,6 +129,11 @@
           30.344866007658062,
           59.89479513793711
         ]
+      },
+      "properties": {
+        "id": "8",
+        "scope": "global",
+        "facility": "other"
       }
     },
     {
@@ -99,6 +144,11 @@
           57.24707310512497,
           59.33788168202488
         ]
+      },
+      "properties": {
+        "id": "9",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -109,6 +159,11 @@
           34.952497300774695,
           55.57012135965664
         ]
+      },
+      "properties": {
+        "id": "10",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -119,6 +174,11 @@
           43.802104643806594,
           55.4049070871955
         ]
+      },
+      "properties": {
+        "id": "11",
+        "scope": "global",
+        "facility": "other"
       }
     },
     {
@@ -129,6 +189,11 @@
           44.16993403438154,
           56.13086072468876
         ]
+      },
+      "properties": {
+        "id": "12",
+        "scope": "global",
+        "facility": "power plant"
       }
     },
     {
@@ -139,6 +204,11 @@
           29.700792339053514,
           59.99438073244813
         ]
+      },
+      "properties": {
+        "id": "13",
+        "scope": "global",
+        "facility": "other"
       }
     },
     {
@@ -149,6 +219,11 @@
           37.44744322337693,
           56.1253048550889
         ]
+      },
+      "properties": {
+        "id": "14",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -159,6 +234,11 @@
           39.423522459900774,
           52.4850328153688
         ]
+      },
+      "properties": {
+        "id": "15",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -169,6 +249,11 @@
           29.491867219513576,
           60.782437539834255
         ]
+      },
+      "properties": {
+        "id": "16",
+        "scope": "global",
+        "facility": "substation"
       }
     },
     {
@@ -179,6 +264,11 @@
           59.65808521421292,
           55.13497168080556
         ]
+      },
+      "properties": {
+        "id": "17",
+        "scope": "global",
+        "facility": "substation"
       }
     }
   ]
